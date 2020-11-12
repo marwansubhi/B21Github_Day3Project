@@ -5,6 +5,7 @@ public class Main {
         System.out.println("Hello Git Last Day");
 
         // we have a good group
+        // B21 is dedicated
 
     }
 }
